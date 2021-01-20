@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Mihir Shah <twitter>
+    Mihir Shah
+	mks14121995@gmail.com
+	DevOPS
 
 # THANKS
 

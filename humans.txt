@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    thanks to DEVOPS team
 
 # TECHNOLOGY COLOPHON
 

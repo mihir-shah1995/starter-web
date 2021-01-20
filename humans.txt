@@ -10,6 +10,8 @@
 # THANKS
     before rebase in master
     thanks to DEVOPS team
+	
+	doing some more changes to master branch: DEVOPS\
 
 # TECHNOLOGY COLOPHON
 

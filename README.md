@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 Hello World
 Cyberpunk
 
+Next gaming PC
+
 ## Hello World
 Follow DeOPS tranning
 1

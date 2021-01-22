@@ -12,6 +12,8 @@
     thanks to DEVOPS team
 	
 	doing some more changes to master branch: DEVOPS\
+	
+	rebase with remote and local
 
 # TECHNOLOGY COLOPHON
 

@@ -21,4 +21,4 @@
     HTML5, CSS3
     jQuery, Modernizr
 	Kubernetes, Docker
-	SQL
+	SQL , Terraform

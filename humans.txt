@@ -13,7 +13,7 @@
     thanks to DEVOPS team
      hrllo world	
 	doing some more changes to master branch: DEVOPS\
-	
+		MSI laptops
 	rebase with remote and local
 
 # TECHNOLOGY COLOPHON
